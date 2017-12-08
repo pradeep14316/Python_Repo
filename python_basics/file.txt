@@ -1,0 +1,3 @@
+Welcome to Python Basics
+ This is the second line of the text file.
+ In Append mode files are wriiten in a continous form.The text will be concat with the previous statements
