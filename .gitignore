@@ -1,6 +1,6 @@
 
-.idea/
-Python_exercise/.idea/
+.idea
+Python_exercise/.idea
 Python_exercise/__pycache__/
 Python_exercise/venv/
 Python_exercise/venv1/
